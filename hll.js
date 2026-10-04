@@ -8,3 +8,8 @@ const b=()=>{
     console.log(bbb)
     
 }
+
+const bb=()=>{
+  alert("pppp")
+    
+}
