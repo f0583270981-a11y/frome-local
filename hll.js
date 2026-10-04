@@ -8,6 +8,6 @@ const b=()=>{
     console.log(bbb)
     
 }
-const a=()=>{
+const k=()=>{
 alert("uuuu")
 }
