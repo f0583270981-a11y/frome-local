@@ -4,6 +4,6 @@ return 56
 
 
 const b=()=>{
-    console.log("aaaa")
+    console.log("bbb")
     
 }
