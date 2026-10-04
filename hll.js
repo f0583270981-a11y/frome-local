@@ -8,3 +8,7 @@ const b=()=>{
     console.log(bbb)
     
 }
+const d=()=>{
+    const a=4
+    const d=5
+}
