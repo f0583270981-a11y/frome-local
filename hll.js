@@ -9,7 +9,17 @@ const b=()=>{
     
 }
 
+
 const bb=()=>{
   alert("pppp")
     
 }
+
+const k=()=>{
+alert("uuuu")
+}
+const d=()=>{
+    const a=4
+    const d=5
+}
+
