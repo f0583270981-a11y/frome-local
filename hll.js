@@ -23,3 +23,7 @@ const d=()=>{
     const d=5
 }
 
+const ho=()=>{
+   let gg=7
+}
+
